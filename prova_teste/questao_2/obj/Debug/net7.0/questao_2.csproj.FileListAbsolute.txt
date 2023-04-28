@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\bin\Debug\net7.0\questao_2.exe
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\bin\Debug\net7.0\questao_2.deps.json
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\bin\Debug\net7.0\questao_2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\bin\Debug\net7.0\questao_2.dll
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\bin\Debug\net7.0\questao_2.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.dll
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\refint\questao_2.dll
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\questao_2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_teste\questao_2\obj\Debug\net7.0\ref\questao_2.dll

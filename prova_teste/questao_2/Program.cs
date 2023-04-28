@@ -1,5 +1,4 @@
-﻿using Internal;
-using System;
+﻿using System;
 namespace MyProject;
 class Program
 {
@@ -34,9 +33,9 @@ class Program
       return lado2;
     }
 
-    public double Combinar(pecaDomino novaPeca){
+    public bool Combinar(pecaDomino novaPeca){
       if (this.lado1 == novaPeca.lado1 || this.lado2 == novaPeca.lado2 || this.lado1 == novaPeca.lado2 || this.lado2 == novaPeca.lado1) return true;
-      else false;
+      else return false;
     }
 
     public override string ToString()
