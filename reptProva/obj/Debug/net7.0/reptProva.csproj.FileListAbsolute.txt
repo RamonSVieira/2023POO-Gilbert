@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\bin\Debug\net7.0\reptProva.exe
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\bin\Debug\net7.0\reptProva.deps.json
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\bin\Debug\net7.0\reptProva.runtimeconfig.json
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\bin\Debug\net7.0\reptProva.dll
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\bin\Debug\net7.0\reptProva.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.dll
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\refint\reptProva.dll
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\reptProva.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\TADS\POO\reptProva\obj\Debug\net7.0\ref\reptProva.dll

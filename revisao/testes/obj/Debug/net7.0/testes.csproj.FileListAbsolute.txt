@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\bin\Debug\net7.0\testes.exe
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\bin\Debug\net7.0\testes.deps.json
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\bin\Debug\net7.0\testes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\bin\Debug\net7.0\testes.dll
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\bin\Debug\net7.0\testes.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.dll
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\refint\testes.dll
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\testes.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\TADS\POO\revisao\testes\obj\Debug\net7.0\ref\testes.dll
