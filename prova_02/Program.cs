@@ -25,13 +25,55 @@ class Program
         brasil.Inserir(j6);
         brasil.Inserir(j7);
 
-
+        Console.WriteLine("LISTAR:");
         foreach (Jogador j in brasil.Listar())
         {
             Console.WriteLine(j);
         }
 
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
 
+        Console.WriteLine("ARTILHEIROS:");
+        foreach (Jogador j in brasil.Artilheiros())
+        {
+            Console.WriteLine(j);
+        }
+
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+
+        Console.WriteLine("CAMISAS:");
+        foreach (Jogador j in brasil.Camisas())
+        {
+            Console.WriteLine(j);
+        }
+
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+
+        Console.WriteLine(brasil);
+
+        //EXCLUIR
+        Console.WriteLine("EXCLUIR:");
+        int n = 0;
+        foreach (Jogador j in brasil.Listar())
+        {
+            Console.WriteLine($"{n++} - {j}");
+        }
+        Console.Write("Informe o número do compromisso para remover: ");
+        n = int.Parse(Console.ReadLine());
+
+        Jogador x = brasil.Listar()[n];
+        brasil.Excluir(x);
+        Console.Write("Excluído com sucesso\n");
+        foreach (Jogador j in brasil.Listar())
+        {
+            Console.WriteLine($"{n++} - {j}");
+        }
 
 
 
@@ -165,6 +207,11 @@ class CamisaComparer : IComparer
         Jogador a = obj as Jogador;
         Jogador b = obj2 as Jogador;
 
+        if (a == null || b == null)
+        {
+            throw new ArgumentException("Os objetos comparados devem ser instâncias da classe Jogador.");
+        }
+
         return a.Camisa.CompareTo(b.Camisa);
     }
 }
@@ -204,12 +251,48 @@ class Equipe
     //3° - Retorna o VETOR AUX
     //Caso voce queira retorna ordenada basta usar os seguintes códigos antes de retornar:
     //Array.Sort(vetorAux, new GolComparer()); Ou demais de ornação implementados na classe Jogador
-    // 
     public Jogador[] Listar()
+    {
+        Jogador[] vetorAux = new Jogador[indice];
+        Array.Copy(jogadors, vetorAux, indice);
+        return vetorAux;
+    }
+
+    //PASSO A PASSO PARA DELETES(não era necessário mas faremos por aprendizado)
+    public void Excluir(Jogador j)
+    {
+        Jogador[] vetorAux = new Jogador[indice - 1];
+        int n = 0;
+        foreach (Jogador jg in this.Listar())
+        {
+            if (jg != j)
+            {
+                vetorAux[n] = jg;
+                n++;
+            }
+        }
+        indice--;
+        jogadors = vetorAux;
+    }
+
+    public Jogador[] Artilheiros()
     {
         Jogador[] vetorAux = new Jogador[indice];
         Array.Copy(jogadors, vetorAux, indice);
         Array.Sort(vetorAux, new GolComparer());
         return vetorAux;
+    }
+
+    public Jogador[] Camisas()
+    {
+        Jogador[] vetorAux = new Jogador[indice];
+        Array.Copy(jogadors, vetorAux, indice);
+        Array.Sort(vetorAux, new CamisaComparer());
+        return vetorAux;
+    }
+
+    public override string ToString()
+    {
+        return $"{pais} - {indice}";
     }
 }
