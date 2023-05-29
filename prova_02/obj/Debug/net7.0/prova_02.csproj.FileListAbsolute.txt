@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\bin\Debug\net7.0\prova_02.exe
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\bin\Debug\net7.0\prova_02.deps.json
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\bin\Debug\net7.0\prova_02.runtimeconfig.json
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\bin\Debug\net7.0\prova_02.dll
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\bin\Debug\net7.0\prova_02.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.dll
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\refint\prova_02.dll
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\prova_02.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\TADS\POO\prova_02\obj\Debug\net7.0\ref\prova_02.dll
