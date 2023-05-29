@@ -1,0 +1,16 @@
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.csproj.AssemblyReference.cache
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.AssemblyInfoInputs.cache
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.AssemblyInfo.cs
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.csproj.CoreCompileInputs.cache
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\bin\Debug\net5.0\prova2.exe
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\bin\Debug\net5.0\prova2.deps.json
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\bin\Debug\net5.0\prova2.runtimeconfig.json
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\bin\Debug\net5.0\prova2.runtimeconfig.dev.json
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\bin\Debug\net5.0\prova2.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\bin\Debug\net5.0\ref\prova2.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\bin\Debug\net5.0\prova2.pdb
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\ref\prova2.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.pdb
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\prova2\obj\Debug\net5.0\prova2.genruntimeconfig.cache
