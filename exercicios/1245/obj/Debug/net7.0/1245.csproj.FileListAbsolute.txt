@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\bin\Debug\net7.0\1245.exe
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\bin\Debug\net7.0\1245.deps.json
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\bin\Debug\net7.0\1245.runtimeconfig.json
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\bin\Debug\net7.0\1245.dll
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\bin\Debug\net7.0\1245.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.dll
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\refint\1245.dll
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.pdb
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\1245.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\TADS\POO\exercicios\1245\obj\Debug\net7.0\ref\1245.dll
