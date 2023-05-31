@@ -1,0 +1,16 @@
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\bin\Debug\net5.0\questao01.exe
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\bin\Debug\net5.0\questao01.deps.json
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\bin\Debug\net5.0\questao01.runtimeconfig.json
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\bin\Debug\net5.0\questao01.runtimeconfig.dev.json
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\bin\Debug\net5.0\questao01.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\bin\Debug\net5.0\ref\questao01.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\bin\Debug\net5.0\questao01.pdb
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.csproj.AssemblyReference.cache
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.AssemblyInfoInputs.cache
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.AssemblyInfo.cs
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.csproj.CoreCompileInputs.cache
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\ref\questao01.dll
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.pdb
+C:\Users\20222014040012\Desktop\www\2023POO-Gilbert\tipos_genericos\questao01\obj\Debug\net5.0\questao01.genruntimeconfig.cache
